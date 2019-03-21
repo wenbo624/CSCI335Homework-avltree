@@ -1,5 +1,5 @@
  
-REBASE version 210                                              staden.210
+REBASE version  210                                              staden.210
  
     =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
     REBASE, The Restriction Enzyme Database   http://rebase.neb.com
