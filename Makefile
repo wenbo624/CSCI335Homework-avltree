@@ -45,7 +45,7 @@ $(PROGRAM_2): $(ALL_OBJ2)
 	g++ $(C++FLAG) -o $(EXEC_DIR)/$@ $(ALL_OBJ2) $(INCLUDES) $(LIBS_ALL)
 
 
-#Compiling all
+# Compiling all
 
 all: 	
 		make $(PROGRAM_0)
