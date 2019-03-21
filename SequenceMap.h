@@ -1,6 +1,6 @@
 // Name: Wen Bo
 // Date: 3/12/2019
-// Assigment: Assignment 2
+// Assigment:  Assignment 2
 
 #ifndef SEQUENCE_MAP_H_
 #define SEQUENCE_MAP_H_
