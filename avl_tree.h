@@ -148,7 +148,7 @@ class AvlTree
 
    
     /**
-    * Return the internal path length of the tree
+    * Return the internal path length of the avl tree
     */
     int pathLength() const
     {
