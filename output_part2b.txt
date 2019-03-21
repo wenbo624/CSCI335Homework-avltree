@@ -1,4 +1,4 @@
-#Note that it is possible to deviate a little bit from these numbers.
+#Note that it  is possible to deviate a little bit from these numbers.
 Input files are rebase210.txt and sequences.txt
 Type of tree is AVL
 2: 565
