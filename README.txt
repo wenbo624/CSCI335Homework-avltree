@@ -19,7 +19,7 @@ By typing
 
 make clean
 
-You delete all .o files and executables.
+You can delete all .o files and executables.
 
 --Note that file avl_tree_modified.h is not provided.
 
