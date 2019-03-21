@@ -1,5 +1,5 @@
 // Name: Wen Bo
-// Main file for Part2(a) of Homework 2.
+// Main file for Part2(a)  of Homework 2.
 
 #include "avl_tree.h"
 // You will have to add #include "sequence_map.h"
