@@ -97,7 +97,7 @@ class AvlTree
     }
 
     /**
-    *Return the sequencemap if find the node, else return itself
+    *Return the sequencemap if find  the node, else return itself
     */
      const Comparable & findnode(const Comparable & x) 
     {
